@@ -5,7 +5,7 @@
         <h5 class="title">100 Awesome Nucleo Icons</h5>
 
         <p class="category">
-          Handcrafted by our friends from
+          By our friend
           <a href="https://nucleoapp.com/?ref=1712">NucleoApp</a>
         </p>
       </template>
